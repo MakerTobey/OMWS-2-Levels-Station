@@ -1,16 +1,16 @@
-[M4x10 screws]:Parts.yaml#M4x10PanSteel
-[No. 2 Phillips screwdriver]:Parts.yaml#Screwdriver_Philips_No2
-# Test Page 1
 
-{{BOM}}
+# 3D models 
 
-## Put screws into the widget {pagestep}
 
-* Get a [No. 2 Phillips screwdriver]{Qty: 1, Cat: tool} ready
-* Take three [M4x10 screws]{Qty: 3} and screw them into the [widget](widget.md){Qty: 1}
+* To have access to the editable files go to the 
 
-## Put more screws into the widget {pagestep}
+###<a href="https://cad.onshape.com/documents/56f3731ad1d54872e3d730b5/w/79a6f9b65ec1b22fe0bc7f1a/e/21be0d722dc31f7ce9321213?renderMode=0&uiState=646cd2865bd39b26be6ed6b3" target="_blank">OnShape link</a>.
 
-* Find the [screwdriver][No. 2 Phillips screwdriver]{Qty: 1, Cat: tool} again
-* Take two more [M4x10 screws]{Qty: 2} and screw them into the same widget
 
+###<a href="https://cad.onshape.com/documents/56f3731ad1d54872e3d730b5/w/79a6f9b65ec1b22fe0bc7f1a/e/21be0d722dc31f7ce9321213?renderMode=0&uiState=646cd2865bd39b26be6ed6b3" target="_blank">![](images/onshape-logo.png)</a>.
+
+
+
+* Or download all the stl files here
+
+###[Stl files](stls.md){Qty: 1, Cat: stl}

@@ -6,14 +6,23 @@ Affiliation: LIBRE hub
 
 #License: CERN-OHL-1.2
 
-Email: my-email@my.domain
+Email: matias.hurtado1@mail.udp.cl
 
 
 #Uncomment below to add custom categories
-#CustomCategories:
-#    printedtool:
-#        Reuse: False
-#        DisplayName: Printed tools
+CustomCategories:
+    printedtool:
+        Reuse: True
+        DisplayName: Printed tools
+    printedpart:
+        Reuse: False
+        DisplayName: Printed parts
+    lasercutpart:
+        Reuse: False
+        DisplayName: Laser cut parts
+    stl:
+        Reuse: False
+        DisplayName: Stl's
 
 #Uncomment below to set a custom default category
 #DefaultCategory: printedtool
