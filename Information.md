@@ -1,3 +1,3 @@
-# Electromics Assembly
+# Electronics Assembly
 
 yes
